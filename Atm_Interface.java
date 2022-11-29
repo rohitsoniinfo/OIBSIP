@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class AtmInterface{
+class AtmInterface{
     
     public static void main(String args[]){
         
