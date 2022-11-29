@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.*;
 
-public class NumberGuessingGame 
+class NumberGuessingGame 
 {
     public static void main(String[] args) 
     {
